@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\User\source\repos\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\User\source\repos\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint_MarkupCompile.cache
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.g.resources
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\User\source\repos\Labirint\Labirint\obj\Debug\Labirint.pdb
